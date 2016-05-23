@@ -1,0 +1,28 @@
+name: In Your Best Light
+favicon: null
+layout_spectrum: 0.4261464402079582
+typography_spectrum: 0.2065603882074356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3620818257331848
+  lightness: 0.28360756929032505
+  saturation: 0.40496832970529795
+  rhythmicContrast: 0.6557770245708525
+purpose: []
